@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Mufaro",
+	"short_name": "Mufaro",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
